@@ -1,4 +1,4 @@
-# Geometry Calculator Web
+# Geometry Calculator Web 2
 
 This is starter code for the web version of the Geometry Calculator used in SENG3120 & SENG3110
 
